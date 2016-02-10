@@ -1,3 +1,3 @@
 # hello-haskell
 
-First test building application in Haskell. An exercise from the [Haskell book](haskellbook.com).
+First test building an application in Haskell. An exercise from the [Haskell book](http://haskellbook.com).
